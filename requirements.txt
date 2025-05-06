@@ -1,0 +1,6 @@
+torch
+torchvision
+scipy
+Pillow
+pytorch-fid
+torch-fidelity
